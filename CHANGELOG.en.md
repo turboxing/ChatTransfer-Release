@@ -1,10 +1,18 @@
 # Changelog
 
-All notable changes to this project. Current version: **v2.0.8.9**
+All notable changes to this project. Current version: **v2.0.9.0**
 
 [中文](./CHANGELOG.md) | [English](./CHANGELOG.en.md) | [العربية](./CHANGELOG.ar.md)
 
 ---
+
+## v2.0.9.0 (2026-08-08)
+
+- Added custom nickname: enter a nickname at login, changeable anytime, synced across all clients in real time
+- Added custom group name: any member can rename the group, synced across all clients in real time
+- Added user IP display: each message shows the sender's LAN IP address below their nickname
+- Added online count: the chat header shows the current number of online users
+- Improved login flow: nickname is cached and auto-filled on next visit
 
 ## v2.0.8.9 (2026-06-16)
 
