@@ -1,10 +1,15 @@
 # Changelog
 
-All notable changes to this project. Current version: **v2.0.9.0**
+All notable changes to this project. Current version: **v2.0.9.1**
 
 [中文](./CHANGELOG.md) | [English](./CHANGELOG.en.md) | [العربية](./CHANGELOG.ar.md)
 
 ---
+
+## v2.0.9.1 (2026-08-25)
+
+- Added custom cache folder: change the cache (uploads) folder in Settings, with optional file migration, applied after restart
+- Cache path now shows a "(custom)" tag to distinguish custom paths from the default
 
 ## v2.0.9.0 (2026-08-08)
 
@@ -26,4 +31,3 @@ All notable changes to this project. Current version: **v2.0.9.0**
 - Added batch drag-and-drop file upload
 - Optimized message bubble display
 - Fixed known issues
-
